@@ -1,6 +1,5 @@
 {
-  "homepage": "https://github.com/21b01a1298/news-react-app",
-  "name": "newsapi",
+  "homepage": "https://21b01a1298.github.io/news-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
